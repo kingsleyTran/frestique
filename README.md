@@ -6,7 +6,8 @@ Using wordpress:
    - http://v2.wp-api.org/
 
 - Theme: none - will create new theme 
-- Using dojo 
+- Using dojo (main js)
+- Using cart.js (for cart)
 - Bootstrap
 - Sweet alert: http://t4t5.github.io/sweetalert/
 
