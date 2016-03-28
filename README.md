@@ -13,6 +13,7 @@ Using wordpress:
 ---
 Mindmap:
 http://text2mindmap.com/LesQEAF
+
 ---
 Design:
 Will be updated later 
